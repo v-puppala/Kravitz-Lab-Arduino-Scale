@@ -33,5 +33,7 @@ We figured that a longer tube could motivate the mouse to stay longer within the
 
 ![graph-8_23-new001](https://user-images.githubusercontent.com/54637095/130485890-b757a6a6-cf45-4185-8da9-774a76651a2b.png)
 
+![graph-8_23_new001_zoomed](https://user-images.githubusercontent.com/54637095/130486065-6226bf1a-aa51-495c-ba5d-67ed0849a469.png)
+
 
 New001.txt corresponds to data recorded over the weekend from 8/20 (evening)-8/23 (morning), when using a longer tube.
