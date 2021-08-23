@@ -28,6 +28,7 @@ The two mice weighed between 22-24 g. When we zoom into the graph, we see that t
 ![graph-8_20-new000_zoomed](https://user-images.githubusercontent.com/54637095/130483885-2f2fc083-a568-49b3-a690-b35a8fd199fd.png)
 
 **New001.TXT**
+
 We figured that a longer tube could motivate the mouse to stay longer within the tube so we elongated the tube.
 
 New001.txt corresponds to data recorded over the weekend from 8/20 (evening)-8/23 (morning), when using a longer tube.
