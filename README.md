@@ -25,7 +25,7 @@ New000.txt corresponds to data recorded overnight from 8/19 (evening)-8/20 (morn
 
 The two mice weighed between 22-24 g. When we zoom into the graph, we see that there are very few peaks in this interval. Moreover, these peaks aren't stable but rather just impulse responses that only take values within this interval for only a single instance. This seemingly suggests that the animal is not staying in the tube long enough for accurate measurements to be taken.
 
-![graph-8_20-new000_zoomed](https://user-images.githubusercontent.com/54637095/130483885-2f2fc083-a568-49b3-a690-b35a8fd199fd.png)
+![graph-8-25_new001_labeled](https://user-images.githubusercontent.com/54637095/130864739-dc608941-2c90-4941-a2e7-a19173a03557.png)
 
 **New001.TXT**
 
