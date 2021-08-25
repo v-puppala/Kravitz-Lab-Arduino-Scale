@@ -1,3 +1,5 @@
+![download](https://user-images.githubusercontent.com/54637095/130864899-643ae2d1-e76c-448f-b664-e60a95db33b3.png)
+![download](https://user-images.githubusercontent.com/54637095/130864917-b5edef62-f357-4948-a75d-6219da0c889b.png)
 ![download](https://user-images.githubusercontent.com/54637095/130864847-a14583d1-8996-4d03-b0fe-64fce5e361b2.png)
 # Kravitz-Lab-Arduino-Scale
 
@@ -25,6 +27,7 @@ New000.txt corresponds to data recorded overnight from 8/19 (evening)-8/20 (morn
 ![graph-8_23_new001_labeled](https://user-images.githubusercontent.com/54637095/130864431-51308945-2b5b-4462-af17-0c90170d9517.png)
 
 The two mice weighed between 22-24 g. When we zoom into the graph, we see that there are very few peaks in this interval. Moreover, these peaks aren't stable but rather just impulse responses that only take values within this interval for only a single instance. This seemingly suggests that the animal is not staying in the tube long enough for accurate measurements to be taken.
+![download](https://user-images.githubusercontent.com/54637095/130864958-2cf64106-6681-4e2e-9a91-a996596a79f0.png)
 
 
 **New001.TXT**
